@@ -1,0 +1,30 @@
+COURSES
+3333
+2380
+1370
+kidMath
+calculus1
+calculus3
+calculus2
+linearAlgebra
+1101
+discreteMath
+databases
+gameDesign
+internetProgramming
+softwareEng
+systems
+english1
+english2
+PREREQUISITES
+3333 - 2380 discreteMath
+english2 - english1
+systems - 1370
+softwareEng - 3333
+gameDesign - 3333
+internetProgramming - 3333
+discreteMath - calculus1 linearAlgebra
+2380 - 1370
+calculus 1 - kidMath
+calculus3 - calculus2
+calculus2 - calculus1
