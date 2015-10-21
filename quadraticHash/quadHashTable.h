@@ -32,7 +32,7 @@ class QuadHashTable{
 
         //n will never be 2
         bool isPrime(int n){
-            for(int i = 2; i < sqrt(n); i++)
+            for(int i = 2; i <= sqrt(n); i++)
                 if(n % i == 0)
                     return false;
             return true;
